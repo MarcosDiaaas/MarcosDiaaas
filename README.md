@@ -1,6 +1,6 @@
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/edududuribeiro/"><i>Marcos Dias</i></a> 😁✨</h1>
-  <p align="center">Estudo na Instituição da <a href="https://www.cps.sp.gov.br/etecs/etec-prof-a-maria-cristina-medeiros/"><i>Etec Maria Cristina Medeiros</i></a> e compartilho meu aprendizado no meu canal no <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1"><i>YouTube</i></a><span> 👉🏽️</span>
+  <h1 align="center">Ola! Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/marcos-d-058439248"><i>Marcos Dias</i></a> 😁✨</h1>
+  <p align="center">Estudo Informática para Internet e estou no segundo ano do Ensino Médio na Instituição da <a href="https://www.cps.sp.gov.br/etecs/etec-prof-a-maria-cristina-medeiros/"><i>Etec Maria Cristina Medeiros</i></a>
   <a align="rigth"  href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank">
     <img width="10%" align="center" valign="middle" src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=iCode&style=social  " target="_blank" />
   </a><br>
