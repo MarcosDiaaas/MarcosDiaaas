@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Olá! Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/marcos-d-058439248"><i>Marcos Dias</i></a> 😄✨</h1>
+  <h1 align="center">Olá! Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/marcos-d-058439248"><i>Marcos Dias</i></a>! 😄✨</h1>
   <p align="center">Estudo Informática para Internet e estou no segundo ano do Ensino Médio na Instituição da <a href="https://www.cps.sp.gov.br/etecs/etec-prof-a-maria-cristina-medeiros/"><i>Etec Maria Cristina Medeiros</i></a>.
   </a><br>
   <p align="center">Espero que goste do meu perfil e venhamos a nos conhecer, Valeu! 😉</h2>
