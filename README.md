@@ -1,8 +1,8 @@
 <div>
-  <h1 align="center">Olá! Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/marcos-d-058439248"><i>Marcos Dias</i></a>! 😄✨</h1>
-  <p align="center">Estudo Informática para Internet e estou no segundo ano do Ensino Médio na Instituição da <a href="https://www.cps.sp.gov.br/etecs/etec-prof-a-maria-cristina-medeiros/"><i>Etec Maria Cristina Medeiros</i></a>.
+  <h1 align="center">Olá! Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/marcos-d-058439248"><i>Marcos Dias</i></a>!</h1>
+  <p align="center">Atualmente estou cursando Ciência da Computação na <a href="https://www.ufabc.edu.br"><i>Universidade Federal do ABC</i></a>.
   </a><br>
-  <p align="center">Espero que goste do meu perfil e venhamos a nos conhecer, Valeu! 😉</h2>
+  <p align="center">Espero que goste do meu perfil e venhamos a nos conhecer, Obrigado! 😉</h2>
 </div>
 
 <div align="center">
